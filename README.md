@@ -1,4 +1,4 @@
-# Aqar-Python-Project
+# Aqar-Project-Python
 
 # Saudi Arabia Real Estate Market Analysis 🏡
 
@@ -67,18 +67,3 @@ The work was carried out as part of **Group 2 – Real Estate Project (2025–20
 - `Group2_SA_Aqar.ipynb` → Jupyter Notebook with full analysis and visualizations  
 - `AQAR G2.pptx` → Final project presentation slides  
 - `README.md` → Project description (this file)  
-
----
-
-## How to Run 🚀
-
-### Requirements
-- Python 3.x  
-- Jupyter Notebook  
-- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`  
-
-### Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
