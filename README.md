@@ -1,5 +1,4 @@
 # Aqar-Python-Project
-## By: Shaikha ALawadhi, Maitham Mansoor, Hashim Zainal
 
 # Saudi Arabia Real Estate Market Analysis 🏡
 
